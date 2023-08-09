@@ -1,0 +1,11 @@
+console.log("Console Project");
+var firstname="Darshnetran";
+var lastname="Murali";
+var fullname=firstname.concat(lastname);
+console.log(fullname);
+var a=10;
+var b=5;
+var add=a+b;
+console.log(add);
+var sub=a-b;
+console.log(sub);
